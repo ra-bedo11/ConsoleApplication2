@@ -10,10 +10,10 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            bool res;
-            int myvar1 = 6, myvar2 = 9;
-            res = myvar1 == myvar2;
-            Console.WriteLine("the result {0}",res);
+         //   bool res;
+           // int myvar1 = 6, myvar2 = 9;
+            //res = myvar1 == myvar2;
+            //Console.WriteLine("the result {0}",res);
         }
     }
 }
